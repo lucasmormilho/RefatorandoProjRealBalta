@@ -1,0 +1,11 @@
+C:\Aulas\RefatorandoProjRealBalta\UtmBuilder\UtmBuilder.Core\bin\Debug\net7.0\UtmBuilder.Core.deps.json
+C:\Aulas\RefatorandoProjRealBalta\UtmBuilder\UtmBuilder.Core\bin\Debug\net7.0\UtmBuilder.Core.dll
+C:\Aulas\RefatorandoProjRealBalta\UtmBuilder\UtmBuilder.Core\bin\Debug\net7.0\UtmBuilder.Core.pdb
+C:\Aulas\RefatorandoProjRealBalta\UtmBuilder\UtmBuilder.Core\obj\Debug\net7.0\UtmBuilder.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aulas\RefatorandoProjRealBalta\UtmBuilder\UtmBuilder.Core\obj\Debug\net7.0\UtmBuilder.Core.AssemblyInfoInputs.cache
+C:\Aulas\RefatorandoProjRealBalta\UtmBuilder\UtmBuilder.Core\obj\Debug\net7.0\UtmBuilder.Core.AssemblyInfo.cs
+C:\Aulas\RefatorandoProjRealBalta\UtmBuilder\UtmBuilder.Core\obj\Debug\net7.0\UtmBuilder.Core.csproj.CoreCompileInputs.cache
+C:\Aulas\RefatorandoProjRealBalta\UtmBuilder\UtmBuilder.Core\obj\Debug\net7.0\UtmBuilder.Core.dll
+C:\Aulas\RefatorandoProjRealBalta\UtmBuilder\UtmBuilder.Core\obj\Debug\net7.0\refint\UtmBuilder.Core.dll
+C:\Aulas\RefatorandoProjRealBalta\UtmBuilder\UtmBuilder.Core\obj\Debug\net7.0\UtmBuilder.Core.pdb
+C:\Aulas\RefatorandoProjRealBalta\UtmBuilder\UtmBuilder.Core\obj\Debug\net7.0\ref\UtmBuilder.Core.dll
