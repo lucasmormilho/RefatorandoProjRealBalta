@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "7NKum8Kv80TpAYo32h3X0Bka8kcMgtJiciGN2SpAv49yJoyr2rFUKYkkdadnWdn11JGC2iOeLYQE5UT2FJid2w==",
+  "dgSpecHash": "LBGTE0xnyBDVTyb/kQ6MUuhqvsynIAmp3h0+yEh7s6/QW1I4ZyipsBPmgyEmKDsLc4MvJLSrafn3KToeDToEsw==",
   "success": true,
-  "projectFilePath": "C:\\Aulas\\RefatorandoProjRealBalta\\UtmBuilder\\UtmBuilder.Core\\UtmBuilder.Core.csproj",
+  "projectFilePath": "C:\\Aulas\\RefatorandoProjRealBalta\\RefatorandoProjRealBalta\\UtmBuilder\\UtmBuilder.Core\\UtmBuilder.Core.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

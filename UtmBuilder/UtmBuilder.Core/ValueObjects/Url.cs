@@ -13,6 +13,7 @@ namespace UtmBuilder.Core.ValueObjects
         {
             Address = address;
             InvalidUrlException.ThrowIfInvalid(address);
+            //aqui aplica-se dois testes de sim e não
         }
 
         /// <summary>

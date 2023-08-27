@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 namespace UtmBuilder.Core.ValueObjects.Exceptions
 {
     //derivar de exception
-    internal partial class InvalidUrlException : Exception
+    public partial class InvalidUrlException : Exception
     {
         //message
         private const string DefaultErrorMessage = "Invalid Url";

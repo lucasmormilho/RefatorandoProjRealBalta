@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Aulas\\RefatorandoProjRealBalta\\UtmBuilder\\UtmBuilder.Core\\UtmBuilder.Core.csproj",
+      "projectUniqueName": "C:\\Aulas\\RefatorandoProjRealBalta\\RefatorandoProjRealBalta\\UtmBuilder\\UtmBuilder.Core\\UtmBuilder.Core.csproj",
       "projectName": "UtmBuilder.Core",
-      "projectPath": "C:\\Aulas\\RefatorandoProjRealBalta\\UtmBuilder\\UtmBuilder.Core\\UtmBuilder.Core.csproj",
+      "projectPath": "C:\\Aulas\\RefatorandoProjRealBalta\\RefatorandoProjRealBalta\\UtmBuilder\\UtmBuilder.Core\\UtmBuilder.Core.csproj",
       "packagesPath": "C:\\Users\\lucas\\.nuget\\packages\\",
-      "outputPath": "C:\\Aulas\\RefatorandoProjRealBalta\\UtmBuilder\\UtmBuilder.Core\\obj\\",
+      "outputPath": "C:\\Aulas\\RefatorandoProjRealBalta\\RefatorandoProjRealBalta\\UtmBuilder\\UtmBuilder.Core\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\lucas\\AppData\\Roaming\\NuGet\\NuGet.Config",
